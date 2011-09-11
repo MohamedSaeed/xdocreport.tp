@@ -6,23 +6,22 @@
 <location path="${project_loc}" type="Directory"/>
 </locations>
 <includeBundles>
-<plugin id="org.odftoolkit.odfdom-java"/>
 <plugin id="com.springsource.javax.xml.stream"/>
-<plugin id="fr.opensagres.org.apache.poi.osgibundle"/>
-<plugin id="org.apache.velocity"/>
-<plugin id="com.springsource.org.apache.commons.fileupload"/>
-<plugin id="slf4j.api"/>
-<plugin id="osgi.core"/>
 <plugin id="org.apache.commons.lang"/>
-<plugin id="org.eclipse.osgi"/>
-<plugin id="com.springsource.org.dom4j"/>
-<plugin id="com.springsource.javax.servlet"/>
-<plugin id="org.eclipse.osgi.util"/>
-<plugin id="com.springsource.freemarker"/>
-<plugin id="com.springsource.org.apache.commons.logging"/>
-<plugin id="org.apache.commons.collections"/>
-<plugin id="org.eclipse.osgi.services"/>
+<plugin id="org.apache.velocity"/>
 <plugin id="com.lowagie.text"/>
+<plugin id="com.springsource.freemarker"/>
+<plugin id="org.odftoolkit.odfdom-java"/>
+<plugin id="com.springsource.org.apache.commons.fileupload"/>
+<plugin id="org.apache.commons.collections"/>
+<plugin id="com.springsource.org.dom4j"/>
+<plugin id="fr.opensagres.org.openxmlformats.schemas"/>
+<plugin id="org.eclipse.osgi"/>
+<plugin id="osgi.core"/>
+<plugin id="com.springsource.org.apache.commons.logging"/>
+<plugin id="fr.opensagres.org.apache.poi.osgibundle"/>
+<plugin id="com.springsource.javax.servlet"/>
 <plugin id="com.springsource.org.apache.xmlbeans"/>
+<plugin id="slf4j.api"/>
 </includeBundles>
 </target>
