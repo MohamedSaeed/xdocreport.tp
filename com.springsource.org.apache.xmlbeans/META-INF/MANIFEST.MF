@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: XMLBeans Development Kit
 Bundle-SymbolicName: com.springsource.org.apache.xmlbeans
-Bundle-Version: 2.4.0.v201010102320
+Bundle-Version: 2.4.0.v201010122350
 Bundle-Vendor: SpringSource
 Export-Package: org.apache.xmlbeans;version="2.4.0";
   uses:="javax.xml.namespace,

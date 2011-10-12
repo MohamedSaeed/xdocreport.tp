@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: POI
 Bundle-SymbolicName: fr.opensagres.org.apache.poi.osgi
-Bundle-Version: 3.7.0
+Bundle-Version: 3.7.0.v201010122350
 Bundle-ClassPath: fr.opensagres.org.apache.poi.osgi_3.7.0.jar
 Export-Package: org.apache.poi,
  org.apache.poi.common.usermodel,
