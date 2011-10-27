@@ -141,5 +141,46 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-
+    <plugin
+         id="com.springsource.javax.validation"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>     
+    
+    <plugin
+         id="com.springsource.javax.activation"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>     
+    
+    <plugin
+         id="com.springsource.javax.xml.bind"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>     
+             
+	<plugin
+         id="com.springsource.org.hibernate.validator"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>   
+    
+    <plugin
+         id="slf4j-api"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+            
+    <plugin
+         id="slf4j-simple"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>   
+                            
 </feature>
